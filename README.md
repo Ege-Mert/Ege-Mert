@@ -5,12 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ege-Mert&label=Profile%20views&color=0e75b6&style=flat" alt="Ege-Mert" /> </p>
 
-<h1 align="center">Hi 👋, I'm Ege "Egora" Mert</h1>
-<h3 align="center">I am a game developer and game designer.</h3>
-
-
-
-
 
 - 🌱 I’m currently learning **Unity C#**
 
