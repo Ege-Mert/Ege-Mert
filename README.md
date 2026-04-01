@@ -1,8 +1,8 @@
-- 💧Water enjoyer
+- 💧water enjoyer
 
-- 👾 My game projects are available at [egora.itch.io](https://egora.itch.io/)
+- 🕹️ games [egora.itch.io](https://egora.itch.io/)
 
-- 📫 How to reach me **egemert669@gmail.com**
+- 📨 reach me **egemert669@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
